@@ -1,0 +1,21 @@
+{
+  "name": "ai-lecturer-profile",
+  "version": "1.0.0",
+  "description": "AI 디지털 강사 프로필 랜딩페이지",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ai",
+    "lecturer",
+    "landingpage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
