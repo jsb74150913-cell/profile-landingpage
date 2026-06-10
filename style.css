@@ -573,8 +573,8 @@ section {
 }
 
 .avatar-container {
-    width: 140px;
-    height: 140px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     padding: 4px;
     background: var(--gradient-primary);
